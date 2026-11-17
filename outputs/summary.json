@@ -1,0 +1,21 @@
+{
+  "synthetic": true,
+  "sku_count": 60,
+  "scenario_count": 540,
+  "weekly_baseline_revenue": 428343.91,
+  "weekly_modeled_revenue": 446409.49,
+  "weekly_baseline_gross_profit": 241146.3,
+  "weekly_modeled_gross_profit": 252161.3,
+  "modeled_weekly_profit_lift": 11015.0,
+  "modeled_profit_lift_pct": 4.57,
+  "price_changes_count": 56,
+  "margin_floor_pct": 30,
+  "competitor_price_cap_multiple": 1.12,
+  "category_summary": [
+    {"category":"Skincare","skus":12,"baseline_profit":36444.81,"modeled_profit":36977.32,"modeled_lift_pct":1.46},
+    {"category":"Fragrance","skus":12,"baseline_profit":83095.63,"modeled_profit":87018.11,"modeled_lift_pct":4.72},
+    {"category":"Makeup","skus":12,"baseline_profit":33989.75,"modeled_profit":38021.83,"modeled_lift_pct":11.86},
+    {"category":"Haircare","skus":12,"baseline_profit":38935.46,"modeled_profit":39779.66,"modeled_lift_pct":2.17},
+    {"category":"Accessories","skus":12,"baseline_profit":48680.65,"modeled_profit":50364.38,"modeled_lift_pct":3.46}
+  ]
+}
